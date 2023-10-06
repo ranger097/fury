@@ -1,0 +1,234 @@
+body {
+
+    background-color: #a7c5df ;
+
+    display: flex;
+
+    flex-direction: column;
+
+    justify-content: center;
+
+    align-items: center;
+
+    
+    
+
+}
+
+.all {
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 50px;
+
+    
+
+    flex-wrap: wrap;
+
+    justify-content: center;
+
+    align-items: center;
+
+    width: 90vw;
+
+    margin-top: 5%;
+
+
+
+
+
+
+}
+
+.containerOne {
+
+    display: flex;
+
+    background-color: #a7c5df;
+
+    gap: 100px;
+
+    flex-wrap: wrap;
+
+    justify-content: flex-start;
+
+    margin: 0px;
+
+
+
+
+}
+
+.containerTwo {
+
+    display: flex;
+
+    background-color: #a7c5df;
+
+    flex-wrap: wrap;
+
+    gap: 100px;
+    
+    margin: 0px;
+
+
+
+}
+
+.containerThree {
+
+
+    display: flex;
+
+    background-color: #a7c5df;
+
+    gap: 100px;
+
+    flex-wrap: wrap;
+
+    margin: 0px;
+
+
+
+
+}
+
+.html {
+
+    display: flex;
+
+
+
+}
+
+.javascript {
+
+    display: flex;
+    
+
+    
+
+
+}
+
+.java {
+
+    display: flex;
+
+
+
+
+}
+
+.react {
+
+    display: flex;
+
+
+
+}
+
+.nodejs {
+
+    display: flex;
+
+   
+
+
+
+
+}
+
+
+.css {
+
+    display: flex;
+
+    
+
+
+}
+
+
+.logoBox {
+
+    background-color: #d1e6f8;
+
+    display: flex;
+
+    flex-direction: column;
+
+    justify-content: center;
+
+    align-items: center;
+
+    box-shadow: 3px 3px 15px rgba(85, 85, 85, 0.281);
+
+    padding-left: 10%;
+
+    padding-right: 10%;
+
+    border-radius: 5px;
+
+
+
+
+
+    
+
+    
+
+
+
+
+
+}
+
+.codeText {
+
+    display: flex;
+
+    flex-wrap: nowrap;
+
+    padding: 50px;
+
+    text-wrap: nowrap;
+
+
+
+
+
+}
+
+p {
+
+    text-wrap: nowrap;
+
+    text-shadow: 3px 3px 3px rgba(85, 85, 85, 0.137);
+
+    font-weight: 700;
+
+
+}
+
+.line {
+
+
+    background-color: black;
+
+    display: flex;
+
+    flex-direction: column;
+
+    width: 90vw;
+
+    height: 0.3vh;
+
+    margin-top: 5%;
+
+
+
+
+}
